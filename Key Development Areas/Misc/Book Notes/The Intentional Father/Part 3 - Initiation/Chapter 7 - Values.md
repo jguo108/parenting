@@ -6,13 +6,14 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Values | What makes us? What makes our family tick? Who are we? |
-| Family Values | Discuss with your son about what they think is the highest family value(s).  |
-| Personal Values | They often derived from the “mountains and valleys” of your timeline. What matters to you as an adult? The author’s four main values are: vision, passion, discipline and risk.  |
-| Masculine Values | Wisdom, self-control, courage, and justice |
-| What to do | Write all those values down and intentionally model them in your own life and pass them down to your son. |
+#### What are values?
+* What makes us? What makes our family tick? Who are we?
+#### What are the three important values
+* Family Values. Discuss with your son about what they think is the highest family value(s).
+* Personal Values. They often derived from the “mountains and valleys” of your timeline. What matters to you as an adult? The author’s four main values are: vision, passion, discipline and risk.
+* Masculine Values. Wisdom, self-control, courage, and justice
+#### What to do?
+* Write all those values down and intentionally model them in your own life and pass them down to your son.
 
 ### Questions to Think About
 

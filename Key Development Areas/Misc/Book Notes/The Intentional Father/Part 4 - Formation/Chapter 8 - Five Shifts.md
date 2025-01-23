@@ -6,30 +6,23 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Life is Hard | Shift from ease to difficulty.
-
-Activities to do with your son:
-* Do something hard, something that he is scared of, and make him find joy and rewarding in do it.
-* Watch movies such as “Brave Heart” and read books such as “Endurance” and discuss how the main characters overcome difficulties.  |
-| You are not important | Shift from self to others. Boys cares about themselves, but men cares about others.
-
-Activities to do with your son:
-* Join a serving team at a local church to help others enjoy their Sunday |
-| Your life is not about you | Shift from whole story to part of the story. You’re part of the story, but you are not the whole story.
-
-Activities to do with your son:
-* Take him to different cities or different parts of the world to meet people who live very differently than he does, those with fewer resources, those who are underprivileged, those who born into very dissimilar circumstances. Life wasn’t about him just getting everything he wanted, that he was actually a tiny little part of a very big story.  |
-| You are not in control | Shift from control to surrender.
-
-Activities to do with your son:
+#### Life is hard
+* Shift from ease to difficulty. 
+* Do something hard, something that he is scared of, and make him find joy and rewarding in do it. 
+* Watch movies such as “Brave Heart” and read books such as “Endurance” and discuss how the main characters overcome difficulties. 
+#### You are not important
+* Shift from self to others. Boys cares about themselves, but men cares about others.
+* Join a serving team at a local church to help others enjoy their Sunday
+#### Your life is not about you
+* Shift from whole story to part of the story. You’re part of the story, but you are not the whole story.
+* Take him to different cities or different parts of the world to meet people who live very differently than he does, those with fewer resources, those who are underprivileged, those who born into very dissimilar circumstances. Life wasn’t about him just getting everything he wanted, that he was actually a tiny little part of a very big story. 
+#### You are not in control
+* Shift from control to surrender.
 * Dying of your pets, completely out of your control and you have to live through it.
-* Go into the woods where, unlike in a city, a lot of things are out of your control. |
-| You are going to die | Shift from the temporary to the eternal.
-
-Activities to do with your son:
-* Take him to a cemetery, walk through the tombs and thing about all the lives of the people who had gone before him. You are going to die, but the life you live is your opportunity to shape eternity: eternal rewards, eternal fruit, eternal vision.  |
+* Go into the woods where, unlike in a city, a lot of things are out of your control.
+#### You are going to die
+* Shift from the temporary to the eternal.
+* Take him to a cemetery, walk through the tombs and thing about all the lives of the people who had gone before him. You are going to die, but the life you live is your opportunity to shape eternity: eternal rewards, eternal fruit, eternal vision.
 
 ### Questions to Think About
 

@@ -6,35 +6,36 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| What is being a father | Being a father is not about efficiency, it’s about discipleship. Being a father is not about time management, it’s about heart development. |
-| Role #1: *Disciple* | * Who is God?
+#### What is being a father?
+* Being a father is not about efficiency, it’s about discipleship. Being a father is not about time management, it’s about heart development.
+#### Role #1: *Disciple*
+* Who is God?
 * What is gospel?
 * What is the biblical story?
-* How do I read the Bible? |
-| Role #2: *Lover* | * Talk about the wonder of woman, marriage and how to prepare oneself to become a man of commitment and faithfulness
-* Nature of your son’s changing body. Physical desires and drives, dating, temptation, porn, how to interact with girls, get them to like you, ask them out on a date.  |
-| Role #3: *Leader* | A man accepts responsibilities, rejects passivity, leads courageously and lives for the greater reward.
-Read and discuss leadership books together, give your son a reward after that and give him experiments for demonstrate his leadership skills |
-| Role #4: *Warrior*  | Man need a cause. A cause bigger than a vision, more expansive than a strategy, and more long-lasting then a season. 
+* How do I read the Bible?
+#### Role #2: *Lover*
+* Talk about the wonder of woman, marriage and how to prepare oneself to become a man of commitment and faithfulness
+* Nature of your son’s changing body. Physical desires and drives, dating, temptation, porn, how to interact with girls, get them to like you, ask them out on a date.
+#### Role #3: *Leader* 
+* A man accepts responsibilities, rejects passivity, leads courageously and lives for the greater reward.
+* Read and discuss leadership books together, give your son a reward after that and give him experiments for demonstrate his leadership skills |
+#### Role #4: *Warrior* 
+* Man need a cause. A cause bigger than a vision, more expansive than a strategy, and more long-lasting then a season. 
 * Fighting for the truth and justice (apologetics).
 * Mental toughness
-* Physical toughness |
-| Role #5: *Brother* | Know how to be in a community. Identify true and false friends. Learn how to forgive. Confront someone without being judgmental. Learn how to develop make friendship.
-
+* Physical toughness
+#### Role #5: *Brother*
+* Know how to be in a community. Identify true and false friends. Learn how to forgive. Confront someone without being judgmental. Learn how to develop make friendship.
 * Where are you stuck at school?
 * Where are you having a tough time?
 * Are there bullies around?
 * What are you responding to?
 * What are you learning from your friends?
-* Where do you see your friends heading? |
-| Role #6: *Wise Man* | Use proverbs as foundation and discuss the traits of the foolish and the wise and identify both in our culture.
-
+* Where do you see your friends heading?
+#### Role #6: *Wise Man* 
+* Use proverbs as foundation and discuss the traits of the foolish and the wise and identify both in our culture.
 * Saving money and earn compound interest
 * Lessons about money
- |
-
 ### Questions to Think About
 
 - What are some things you do yourself, instead of involving your kids, because you know you can do it faster? Could there be opportunities in these spaces for them to lean valuable things?

@@ -6,10 +6,10 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Identity | Who you are, what are your strengths, what are your spiritual gifts, what are your weaknesses. A good way to discover this is to take as many personality and skill tests as you can.  |
-| Different tests and evaluations | * The Enneagram personality test
+#### Identity
+* Who you are, what are your strengths, what are your spiritual gifts, what are your weaknesses. A good way to discover this is to take as many personality and skill tests as you can.
+#### Test and Evaluations
+* The Enneagram personality test
 * StrengthsFinder test
 * Spiritual Gifts assessment
 * APEST test
@@ -24,7 +24,6 @@
 ### Intentional Steps
 
 For each test you plan to have with your son, as the following questions:
-
 - What are the results?
 - What does this mean?
 - What does it explain?

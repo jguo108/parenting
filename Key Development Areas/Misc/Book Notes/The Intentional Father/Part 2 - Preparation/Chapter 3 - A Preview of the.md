@@ -6,13 +6,13 @@
 
 ### Notes
 
-| Key Points                                 | Details                                                                                |
-| ------------------------------------------ | -------------------------------------------------------------------------------------- |
-| When your son leaves home                  | Think about what legacy do you leave to him? What will he take with him?               |
-| Four questions father should think through | 1. What do you want your son to know about God, about himself and about life? (Wisdom) |
-2. What do you want your son to be? (Character)
-3. What skills do you want your son to have? (Skills)
-4. What formational experience do you want him to have? (Experience that reinforced the first three) |
+#### When your son leaves
+* Think about what legacy do you leave to him? What will he take with him?
+#### Four questions to think through
+* What do you want your son to know about God, about himself and about life? (Wisdom)
+* What do you want your son to be? (Character)
+* What skills do you want your son to have? (Skills)
+* What formational experience do you want him to have? (Experience that reinforced the first three)
 
 ### Questions to Think About
 

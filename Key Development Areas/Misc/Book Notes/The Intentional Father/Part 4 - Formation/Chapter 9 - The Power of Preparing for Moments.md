@@ -6,10 +6,10 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Moments  | Create moments that will stay with you son forever. Whether you get it right or not. |
-| The Author’s example moments with his son | * *First cell phone*. Have a conversation about what apps to use, restricted access to porn, how to respond to bullying, sexting and other bad behavior. 
+#### Moments
+* Create moments that will stay with you son forever. Whether you get it right or not.
+#### Example moments
+* *First cell phone*. Have a conversation about what apps to use, restricted access to porn, how to respond to bullying, sexting and other bad behavior.
 * *First exposure to porn*. “Hey, you know what, this is something all men wrestle with. How did you come into this?”
 * *First shave*.
 * *First girlfriend*. 
@@ -21,9 +21,6 @@
 * *First exposure to racism*. 
 * *First time with a driver’s license*.
 * *Whimsical moments*. 
-
-Make the moments unreasonable. |
-
 ### Questions to Think About
 
 - What moments did your parents get right? What moments did they get wrong? How have these shaped you?

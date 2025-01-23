@@ -6,10 +6,8 @@
 
 ### Notes
 
-| Key Points       | Details                                                                                                                                                                                                                                                                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| A trip back home | Context provides meaning and helps us know that to do with our lives. Let your son know your story - your family background, the place you grew up, and the moments that shaped you into the man and father you are today. Take a journey HOME with your son! Show him the places, experiences and people that shape you into who you are. |
-
+#### A trip back home
+* Context provides meaning and helps us know that to do with our lives. Let your son know your story - your family background, the place you grew up, and the moments that shaped you into the man and father you are today. Take a journey HOME with your son! Show him the places, experiences and people that shape you into who you are.
 ### Questions to Think About
 
 - What are the key places and moments from my teenage years I would want to share with my son so he understands me better.

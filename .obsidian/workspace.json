@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Intentional Father"
+              "title": "Chapter 3 - A Preview of the"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Intentional Father"
+              "title": "Backlinks for Chapter 3 - A Preview of the"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Intentional Father"
+              "title": "Outgoing links from Chapter 3 - A Preview of the"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Lists/Done Reading/The Intentional Father.md"
+                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Intentional Father"
+              "title": "Outline of Chapter 3 - A Preview of the"
             }
           }
         ]
@@ -175,16 +175,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "916b88ed6ec92d0b",
+  "active": "f7ce1ec6c7969bbb",
   "lastOpenFiles": [
-    "新建文件夹",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction.md",
-    "Book Lists/Done Reading/The Intentional Father.md",
-    "Book Lists/To-Read/Grit.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 5 - Ceremony.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 6 - Home.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 4 - Honoring Your Father.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 13 - The Arc of Life.md",
@@ -194,6 +186,14 @@
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 9 - The Power of Preparing for Moments.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 8 - Five Shifts.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 7 - Values.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 6 - Home.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 5 - Ceremony.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 4 - Honoring Your Father.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction.md",
+    "Book Lists/Done Reading/The Intentional Father.md",
+    "新建文件夹",
+    "Book Lists/To-Read/Grit.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing 183ee86c13d9800abddde88296dbbb35.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year 183ee86c13d980528c88eabcb484e641.md",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition",
@@ -211,7 +211,6 @@
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation 183ee86c13d980b2bc02dfda70c35043",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation 182ee86c13d98062b8b8d5a45b3b689b",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation 180ee86c13d980ea801ac2b72ab950d9",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father",
-    "Part 2 - Preparation 180ee86c13d980ea801ac2b72ab950d9"
+    "Key Development Areas/Misc/Book Notes/The Intentional Father"
   ]
 }

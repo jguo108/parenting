@@ -6,9 +6,8 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Ceremony (Initiation) | Have some special events with your son that would mark the beginning of his journey into manhood. |
+#### Ceremony (Initiation)
+* Have some special events with your son that would mark the beginning of his journey into manhood.
 
 ### Questions to Think About
 

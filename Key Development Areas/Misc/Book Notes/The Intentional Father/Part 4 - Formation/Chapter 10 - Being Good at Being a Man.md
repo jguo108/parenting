@@ -6,13 +6,12 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Process of help your son acquire new skills little by little, over time. | 1. *I do, you watch, we talk (”what you’ve learnt?”)*
-2. *I do, you help, we talk (”what you’ve learnt?”)*
-3. *You do, I help, we talk (”what you’ve learnt?”)*
-4. *You do, I watch, we talk (”what you’ve learnt?”)*
-5. *You do, someone else watches.*  |
+#### Process of help your son acquire new skills little by little, over time
+* I do, you watch, we talk (”what you’ve learnt?”)
+* I do, you help, we talk (”what you’ve learnt?”)
+* You do, I help, we talk (”what you’ve learnt?”)
+* You do, I watch, we talk (”what you’ve learnt?”)
+* You do, someone else watches
 
 ### Questions to Think About
 

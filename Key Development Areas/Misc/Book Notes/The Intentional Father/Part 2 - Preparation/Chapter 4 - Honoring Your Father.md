@@ -6,10 +6,11 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| It’s important we make peace with our fathers | Write a tribute letter to your father as a way of honoring him. List everything he got right.  |
-| Mountains and Valleys | Create a timeline to list out all your high moments and low moments. Get a sense of your own story, have an awareness if the moments that defined you, and remember the people who have shaped you.  |
+#### Make peace with our fathers
+* Write a tribute letter to your father as a way of honoring him. List everything he got right.
+
+#### Mountains and Valleys
+* Create a timeline to list out all your high moments and low moments. Get a sense of your own story, have an awareness if the moments that defined you, and remember the people who have shaped you.
 
 ### Questions to Think About
 

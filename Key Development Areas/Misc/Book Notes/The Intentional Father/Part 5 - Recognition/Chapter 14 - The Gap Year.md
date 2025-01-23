@@ -6,12 +6,11 @@
 
 ### Notes
 
-| Key Points | Details |
-| --- | --- |
-| Goals of a gap year | * Realize life is not just about himself
-* Avoid preying to an overwhelming feeling that he has to get ahead and do things NOW |
-| Father-Son pilgrimage | Take your son on a pilgrimage journey with you |
-
+#### Goals of Gap Year
+* Realize life is not just about himself
+* Avoid preying to an overwhelming feeling that he has to get ahead and do things NOW
+#### Father-Son Pilgrimage
+* Take your son on a pilgrimage journey with you
 ### Questions to Think About
 
 - What are your thoughts and concerns about a gap year?
