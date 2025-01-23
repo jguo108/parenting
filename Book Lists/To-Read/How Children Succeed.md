@@ -1,0 +1,5 @@
+# How Children Succeed
+
+### Link
+
+https://www.amazon.com/How-Children-Succeed-Paul-Tough/dp/0544104404/ref=sr_1_1?crid=1QAC5ORV1X40L&dib=eyJ2IjoiMSJ9.gSzfEqb742JLZO9q14y45NPAAIeMnwmn3B_g_7ANqTipe6vSqW1OIZRSB5nfTKvVAbGNRchHLSk3GdKwgjaeMRXaWOAQj4iTN7raPuLoybSoIbCaBoNizxQHlHVoRtbDgF0a8o6HEqUkwxRd9g6F6nheLhdmV8lPifsDrZNQQbcLLFT_UxHlmJFoopbJg0Ti3AHmF5CAFrwautfZX5uG8YPzOacXPtfbJUPKdsYELEE.rXEkAmghOFf8kn8FXzqlA6zr-z-Wf6hJtbrELqNuiAs&dib_tag=se&keywords=how+children+succeed&qid=1732761775&sprefix=how+children+succe%2Caps%2C677&sr=8-1

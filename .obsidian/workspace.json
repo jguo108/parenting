@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5bbd098f451606b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dd8779c2717d533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ce1ec6c7969bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Intentional Father"
+            }
+          },
+          {
+            "id": "d6ec56f7d6b91f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 1 - Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22a95062cc2bb594",
+    "type": "split",
+    "children": [
+      {
+        "id": "74288b985a28c9a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916b88ed6ec92d0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da05e6b6e9faa151",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "intentional",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7701a53090819078",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1f85c94fa145d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "421ea92dd1dfd43e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eae3bafe029ca0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Intentional Father"
+            }
+          },
+          {
+            "id": "27289c23862a0d6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book Lists/Done Reading/The Intentional Father.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Intentional Father"
+            }
+          },
+          {
+            "id": "68f7a56146d87672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "974c8c8edb83d24c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Book Lists/Done Reading/The Intentional Father.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Intentional Father"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "916b88ed6ec92d0b",
+  "lastOpenFiles": [
+    "新建文件夹",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction.md",
+    "Book Lists/Done Reading/The Intentional Father.md",
+    "Book Lists/To-Read/Grit.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 5 - Ceremony.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 6 - Home.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 4 - Honoring Your Father.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 13 - The Arc of Life.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 12 - Self-Discovery.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 11 - Roles to Master.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 10 - Being Good at Being a Man.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 9 - The Power of Preparing for Moments.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 8 - Five Shifts.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 7 - Values.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing 183ee86c13d9800abddde88296dbbb35.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year 183ee86c13d980528c88eabcb484e641.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 9 - The Power of Preparing for Moments 183ee86c13d980d6ac11e4df8c56bd19.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 8 - Five Shifts 183ee86c13d98006b194edae5752479a.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 12 - Self-Discovery 183ee86c13d980c48c06ed4f33336c0a.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 13 - The Arc of Life 183ee86c13d980d0b9b2ef1442aa80ff.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 11 - Roles to Master 183ee86c13d980f1abb9d1606acda57d.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 10 - Being Good at Being a Man 183ee86c13d9804984c2e0281170d1e6.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 7 - Values 182ee86c13d9807da0dfdf98edc95451.md",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition 183ee86c13d9802d869dc4d21c8beb14",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation 183ee86c13d980b2bc02dfda70c35043",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation 182ee86c13d98062b8b8d5a45b3b689b",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation 180ee86c13d980ea801ac2b72ab950d9",
+    "Key Development Areas/Misc/Book Notes/The Intentional Father",
+    "Part 2 - Preparation 180ee86c13d980ea801ac2b72ab950d9"
+  ]
+}

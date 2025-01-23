@@ -1,0 +1,5 @@
+# Good Inside
+
+### Link
+
+https://www.amazon.com/Good-Inside-Guide-Becoming-Parent/dp/B09PGMSBBN/ref=sr_1_1?crid=2FC44B72H12N9&dib=eyJ2IjoiMSJ9.g6q3aWXNrYHMY812X9Bo8TUq0doOd8YIlTs81KI6pW3yxY26zAD9b_PWnS8FVAI_zTSECvxIZ4tMcrr9NcOaR5ITy7tKuaab0--H_8jNRtUo9E95hJ1dQo1uD2OZaM_1i2nMqH79aPDl4BX17AQdYZEE-gCX3Yf_qOKW4lv0EI2lFczeBcXi9pomTkN4rFd7mq_ISWoFsTVylDi9OYuWfb7Z6otnXOuMHirOpduFgUs.l-Sskz0V6PLftw40xrN4UqaSw5cZU0L8xkCD9_1f5AI&dib_tag=se&keywords=good+inside&qid=1732760375&sprefix=good+i%2Caps%2C727&sr=8-1

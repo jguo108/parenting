@@ -1,0 +1,5 @@
+# Cribsheet
+
+### Link
+
+https://www.amazon.com/Cribsheet-Data-Driven-Relaxed-Parenting-Preschool/dp/0525559272/ref=sr_1_1?crid=37G8PVW08O9MW&dib=eyJ2IjoiMSJ9.QRAuiXVj_rxgWtvkz2eKoBaZJBYej7JfRpKS5VhVdVZRKSrkvkp77B0ExeepVEvYuH8qQQMwTD1kwXy6j61kFlEHl0MAND-KP5tqv-RCpyFILJxLkaI4Tg0_sXZSNcELMpE4cHV_0SYdqFFM1h6uHURpRIjsdKmB0Ze7VJ8zx_fp8F3vsyurfMAJSDPxInCYkwTX700rjD6rtGI_Qs7--M4mmP1Y1QKrij7ZDTIlGUM.6mKuJ-_UDP1rCrrNG1pRytwFpunZLE2WIvKbIuzEyeU&dib_tag=se&keywords=cribsheet+emily+oster&qid=1732760837&sprefix=cribsheet%2Caps%2C668&sr=8-1

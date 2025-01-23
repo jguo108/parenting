@@ -1,0 +1,5 @@
+# Smart but Scattered
+
+### Link
+
+https://www.amazon.com/Smart-but-Scattered-Revolutionary-Executive/dp/1593854455/ref=sr_1_1?crid=3SEZ8Y0XFTVR2&dib=eyJ2IjoiMSJ9.U2F3pRme5a3EgBhCdHI_sYpmhqUXZWm14ta6nvhC3USobzj9BxnNBHusad2XAb-ZnkKB3t9im-WrFgs5rw85pHZchPDMJw4vQun19q1w5HDM6vaJAOkPl6LXbqpTOU5GgijSQTz9H7qmIsFHF4DVwu3U_mNS6wetqfmOLDY6iFTtAUtCo9gk05yWPdcMdp4iMZ35mCUmOnfrW9M79e5_W38Y3-8kKu9HHDMDbJ6IQfY.wQJiDCcYKccl-Lcqk9HE3nurWjZHywfHrAnZEg4g2Sg&dib_tag=se&keywords=smart+but+scattered&qid=1732760681&sprefix=smart+but+sca%2Caps%2C464&sr=8-1

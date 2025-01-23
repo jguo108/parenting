@@ -1,0 +1,5 @@
+# Thrivers
+
+## Link
+
+https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085299/ref=sr_1_1?crid=231XALH6FMKAF&dib=eyJ2IjoiMSJ9.TDp7G2QEuFfpa7CUT5mJLllmjtp6fE3Hy4VxYpTufLML4svR1pCIYmKhrAv6byatdZCsplyWc3Si6TQJ6AC8_wl0JsadY1iuZsK8i6E-ZhTkVV031YZ_GwYQVhumz6VJXNwqk5MxxV0RdvOSAv9prpAF69aYyiFlDUlApsYmtetuzCsw6PmzC2mnAcERNGSljb-G5OpOlGDQwwEs2nm1WxocsiWDIi5yZzPaKIdwcz4.8kj5NPE706vWsZr9cMREkP6V0YAEVS5wEPpAfT5Dado&dib_tag=se&keywords=The+thrivers&qid=1732761615&sprefix=the+thriv%2Caps%2C466&sr=8-1
