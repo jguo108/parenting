@@ -19,7 +19,8 @@
 - What are the two or three top lessons you learned from your dad when you where growing up?
 - Do you feel prepared for the realities of life when you left home? Why or why not?
 
-### Exercises 1 - Preparing for That Day
+<span style="color:rgb(251, 183, 106)">### Exercises 1 - Prepar<span style="color:rgb(251, 183, 106)">in</span><span style="color:rgb(251, 183, 106)">g </span><span style="color:rgb(251, 183, 106)">for</span> That Day
+</span>
 
 | What do you want your son to know? | What do you want your son to be? | What do you want him to be able to do? | What experience do you want him to have? |
 | --- | --- | --- | --- |
