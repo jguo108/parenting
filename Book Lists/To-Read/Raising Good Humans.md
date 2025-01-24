@@ -1,4 +1,3 @@
-# Raising Good Humans
 
 ### Book Link
 

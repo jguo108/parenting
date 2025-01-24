@@ -1,4 +1,3 @@
-# Brave Moms, Brave Kids:
 
 ### Link
 

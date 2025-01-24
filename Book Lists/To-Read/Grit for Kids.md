@@ -1,4 +1,3 @@
-# Grit for Kids
 
 ### Link
 

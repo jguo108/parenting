@@ -1,4 +1,3 @@
-# The Grit Workbook for Kids
 
 ### Link
 

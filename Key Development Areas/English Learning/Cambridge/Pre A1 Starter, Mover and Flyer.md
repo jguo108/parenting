@@ -1,4 +1,3 @@
-# Pre A1 Starter, Mover and Flyer
 
 https://www.cambridgeenglish.org/exams-and-tests/starters/
 
