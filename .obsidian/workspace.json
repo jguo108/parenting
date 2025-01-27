@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Lists/To-Read/The Grit Workbook for Kids.md",
+                "file": "Foundational Pillars for Kids/Misc/Books/Brain Rules for Baby.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Grit Workbook for Kids"
+              "title": "Brain Rules for Baby"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Lists/To-Read/The Grit Workbook for Kids.md",
+                "file": "Foundational Pillars for Kids/Misc/Books/Brain Rules for Baby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Grit Workbook for Kids"
+              "title": "Backlinks for Brain Rules for Baby"
             }
           },
           {
@@ -163,38 +163,38 @@
   },
   "active": "f7ce1ec6c7969bbb",
   "lastOpenFiles": [
-    "Book Lists/To-Read/The Gift of Failure.md",
-    "Book Lists/To-Read/Grit for Kids.md",
-    "Book Lists/To-Read/Grit.md",
-    "Book Lists/To-Read/Brave Moms, Brave Kids.md",
-    "Book Lists/To-Read/13 Things Mentally Strong Parents Don't Do.md",
-    "Book Lists/To-Read/Raising Boys.md",
-    "Book Lists/To-Read/Raising Emotionally Strong Boys.md",
-    "Book Lists/To-Read/Raising Mentally Strong Kids.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 8 - Five Shifts.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 11 - Roles to Master.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 10 - Being Good at Being a Man.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 7 - Values.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 12 - Self-Discovery.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 13 - The Arc of Life.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation/Chapter 9 - The Power of Preparing for Moments.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction/Part 1 - Introduction.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 1 - Introduction",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 6 - Home.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation/Chapter 5 - Ceremony.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 4 - Honoring Your Father.md",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
-    "Book Lists/To-Read/Parenting - Getting it right.md",
-    "Book Lists/To-Read/Daily Dad.md",
-    "Resources/Podcast/Dan Koe/The Most Important Skill To Learn In The Next 10.md",
-    "Book Lists/To-Read/Raising Good Humans.md",
+    "Book Lists/Done Reading/The Intentional Father.md",
+    "Foundational Pillars for Kids/Misc/Books/Brain Rules for Baby.md",
+    "Foundational Pillars for Kids/Misc/Books/Raising Boys.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/The Grit Workbook for Kids.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/The Gift of Failure.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/Grit for Kids.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/Grit.md",
+    "Foundational Pillars for Kids/Misc/Books/Brave Moms, Brave Kids.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/13 Things Mentally Strong Parents Don't Do.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/Raising Emotionally Strong Boys.md",
+    "Foundational Pillars for Kids/A - Resilience/Books/Raising Mentally Strong Kids.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 8 - Five Shifts.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 11 - Roles to Master.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 10 - Being Good at Being a Man.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 3 - Initiation/Chapter 7 - Values.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 12 - Self-Discovery.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 13 - The Arc of Life.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation/Chapter 9 - The Power of Preparing for Moments.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 1 - Introduction/Part 1 - Introduction.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 1 - Introduction",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 5 - Recognition/Chapter 15 - Ceremony of Welcome and Blessing.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 5 - Recognition/Chapter 14 - The Gap Year.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 3 - Initiation/Chapter 6 - Home.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 3 - Initiation/Chapter 5 - Ceremony.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 2 - Preparation/Chapter 4 - Honoring Your Father.md",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
+    "Foundational Pillars for Kids/Misc/Books/Parenting - Getting it right.md",
     "新建文件夹",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation",
-    "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 5 - Recognition",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 4 - Formation",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 3 - Initiation",
+    "Foundational Pillars for Kids/Misc/Books/The Intentional Father/Part 2 - Preparation",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 5 - Recognition 183ee86c13d9802d869dc4d21c8beb14",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 4 - Formation 183ee86c13d980b2bc02dfda70c35043",
     "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 3 - Initiation 182ee86c13d98062b8b8d5a45b3b689b",
