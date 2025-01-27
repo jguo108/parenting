@@ -1,0 +1,3 @@
+### Link
+[The Daily Dad: 366 Meditations on Parenting, Love, and Raising Great Kids: Holiday, Ryan: 9780593539057: Amazon.com: Books](https://www.amazon.com/Daily-Dad-Meditations-Parenting-Raising/dp/0593539052/ref=sr_1_8?crid=1WE1G54KJL7AL&dib=eyJ2IjoiMSJ9.mqej5SGUMpRW0rOhedRAjfwRWe4CvLurtfk767YdcRW6xpjYfwnl_jws5qDnU-Vod-NslPfvWzd1UBWxV5FouM9MPItqvJPT4gdVRknC8mjfXbriuJ-oqyXRGkQxdz-Xe5w7s6PfYj5Ndx9hxKNehnbjT2bMYIy0ywp9u7BdMnDh0L51Ce0h5CpGYvJfCbsivXl1UkmXBcstZnUPRGc9_1NGi70MUX8OTD4Gc3hVlAc.PB9VwKXqwJDW0mMpWvS1mdSiT5tpFsC_BI0T4XYpiBA&dib_tag=se&keywords=parenting&qid=1737704913&s=books&sprefix=parenting%2Cstripbooks-intl-ship%2C245&sr=1-8)
+
