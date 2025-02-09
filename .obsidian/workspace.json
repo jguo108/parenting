@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Father to Son.md",
+                "file": "Foundational Pillars for Kids/A - Health/Books/Out Door Kids in an Inside World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Father to Son"
+              "title": "Out Door Kids in an Inside World"
             }
           }
         ]
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Development Areas/Misc/Book Notes/The Intentional Father/Part 2 - Preparation/Chapter 3 - A Preview of the.md"
+                "file": "Foundational Pillars for Kids/A - Health/Books/Out Door Kids in an Inside World.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3 - A Preview of the"
+              "title": "Outline of Out Door Kids in an Inside World"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,10 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ce1ec6c7969bbb",
+  "active": "916b88ed6ec92d0b",
   "lastOpenFiles": [
-    "Foundational Pillars for Kids/Parental Relationship/Books/How to talk so kids will listen and listen so kids will talk.md",
+    "Foundational Pillars for Kids/Risk Taking/Books",
+    "Foundational Pillars for Kids/EQ/Books",
+    "Foundational Pillars for Kids/Computing/Books",
+    "Foundational Pillars for Kids/A - English Learning/Books",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books",
+    "Foundational Pillars for Kids/A - Creativity Curiosity/Book Notes.md",
+    "Foundational Pillars for Kids/A - Creativity Curiosity/Books",
+    "Foundational Pillars for Kids/A - Health/Books/Out Door Kids in an Inside World.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Father to Son.md",
+    "Foundational Pillars for Kids/Parental Relationship/Books/How to talk so kids will listen and listen so kids will talk.md",
     "Foundational Pillars for Kids/Displine/Books/123 Magic.md",
     "Foundational Pillars for Kids/Misc/Books/Weird Parenting Winds.md",
     "Foundational Pillars for Kids/Displine/Books",
@@ -183,21 +192,13 @@
     "Foundational Pillars for Kids/A - Money/Books/The Opposite of Spoiled.md",
     "Foundational Pillars for Kids/Parental Relationship/Books",
     "Foundational Pillars for Kids/A - Empathy/Books",
-    "Foundational Pillars for Kids/A - Health/Books/Out Door Kids in an Inside World.md",
-    "Foundational Pillars for Kids/A - Money/Books",
-    "Foundational Pillars for Kids/A - Money",
     "Foundational Pillars for Kids/Misc/Books/Range.md",
-    "Foundational Pillars for Kids/A - Health/Books",
-    "Foundational Pillars for Kids/A - Health",
     "Foundational Pillars for Kids/Misc/Books/Brain Rules for Baby.md",
     "Book Lists/Done Reading/The Intentional Father.md",
     "Foundational Pillars for Kids/Misc/Books/Raising Boys.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Grit Workbook for Kids.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Grit for Kids.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Grit.md",
-    "Foundational Pillars for Kids/Misc/Books/Brave Moms, Brave Kids.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/13 Things Mentally Strong Parents Don't Do.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Intentional Father/Part 1 - Introduction"
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Grit.md"
   ]
 }
