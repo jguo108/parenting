@@ -43,7 +43,8 @@
 * Intrinsic motivate is what drives children to continue learning, to be resilient and not afraid of failure.
 * You can help children to better develop intrinsic motivation by giving them <span style="color:rgb(146, 208, 80)">autonomy</span>, help them to become <span style="color:rgb(146, 208, 80)">competent</span>, build better <span style="color:rgb(146, 208, 80)">relationship</span> with them to make the autonomy and competence meaningful (<span style="color:rgb(146, 208, 80)">communication</span>). 
 
-### Practical Steps
+### Practice
+
 * Do not use external rewards to motive your child.
 * Back off, and let children work on their own even in difficult situations. 
 * Set hard boundaries, but within those boundaries, give them freedom to make their own choice.
