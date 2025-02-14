@@ -1,5 +1,6 @@
 
 ### Notes
+
 * Peers teach our children how to interact and negotiate with other people, and this education starts when children learn to play cooperatively, respond to the needs of others, and construct their own imaginary worlds. 
 * Adults should give kids the space and freedom to learn how to play with other and work out the tough social moments for themselves, because those fights, tussles, silent treatments, and breakups are invaluable opportunities for growth.
 * The cost of over-parenting is that the child does not develop the skills to fight back, speak up or get the hell out of the way. The child will not learn valuable communication skills that are necessary during the heat of emotional flooding during an argument. 
@@ -22,6 +23,10 @@
 #### Learning from Adolescent Social Angst
 
 * Support, but not control teens through their adolescent relationships. 
+* Be a guide and a safe place for problem solving, rather than the problem solver. 
+* If your child changes in ways  that make you uncomfortable as a result of his friendship, talk to him about what he likes or is drawn to in these new friends. 
+* Do not lecture a child. Ask an open-ended question and then listen. 
+* As we send our kids into the world, we need to trust them more, and when they live up to our trust, catch them doing things right and praise them. Keep an eye out for your kids' good judgment, character, and resilience and let them know that's what  you value above all else. 
 
 
 
@@ -29,6 +34,8 @@
 
 ### Practices
 * Put digital devices away and arrange playdates with a variety of real, live children.
+* When child leaves home, say "have fun" instead of "be careful"
+* 
 
 ### References
 [Amazon.com: Judith Rich Harris: books, biography, latest update](https://www.amazon.com/stores/Judith-Rich-Harris/author/B000APGAUE?ref=sr_ntt_srch_lnk_1&qid=1739415861&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
