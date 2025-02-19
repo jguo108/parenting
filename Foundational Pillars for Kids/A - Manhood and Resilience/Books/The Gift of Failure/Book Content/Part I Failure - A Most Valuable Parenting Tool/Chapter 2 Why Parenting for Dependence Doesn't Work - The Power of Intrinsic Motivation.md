@@ -1,7 +1,7 @@
 ### Note
 
 * Fear of failure destroys love of learning.
-* Children leans in difficult situations. They learn to be creative in problem-solving, they learn diligence, they learn self-control and perseverance. But because our children are so afraid of failure, they start to take on fewer challenges. They know if they try something challenging or new, and fail, that failure will be hard evidence that they are not as smart as everyone keeps tell them. Better to be safe. That's why we should praise for effect, not for intellect. 
+* Children learn in difficult situations. They learn to be creative in problem-solving, they learn diligence, they learn self-control and perseverance. But because our children are so afraid of failure, they start to take on fewer challenges. They know if they try something challenging or new, and fail, that failure will be hard evidence that they are not as smart as everyone keeps tell them. Better to be safe. That's why we should praise for effect, not for intellect. 
 
 #### Intrinsic Motivation: The Holy Grail of Parenting
 

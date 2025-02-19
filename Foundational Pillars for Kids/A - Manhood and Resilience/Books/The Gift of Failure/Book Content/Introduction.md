@@ -1,6 +1,6 @@
 ### Note
 
-*  Because we lack supervision in our childhood, we ourselves become ever-present, ever-helpful, ever-reminding and ever rescuing parents. 
+* Because we lack supervision in our childhood, we ourselves become ever-present, ever-helpful, ever-reminding and ever rescuing parents. 
 
 * Strategies that work in business does not work for parenting. Those strategies are for motivating assembly line workers, they are terrible tools for motivating children to engage in creative problem solving and undermine long-term motivation and learning. The use of rewards and incentives priorities scores and grades over exploration and experimentation, which undermines our ability to foster self-directed and intrinsically motivated learning.
 
