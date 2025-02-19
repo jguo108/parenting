@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Introduction.md",
+                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Meta Information"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/My Thoughts.md",
+                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Meta Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Thoughts"
+              "title": "Meta Information"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/My Thoughts.md",
+                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My Thoughts"
+              "title": "Outline of Meta Information"
             }
           }
         ],
@@ -223,13 +223,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b40ece0197efb8a2",
+  "active": "afd0944c93898af8",
   "lastOpenFiles": [
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Meta Information.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Mind in the Making/Meta Information.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Raising Critical Thinkers/Meta Information.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Introduction.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Emotionally Strong Boys/DeepSeek Summary.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Mind in the Making",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Mentally Strong Kids/DeepSeek Summary.md",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/DeepSeek Summary.md",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/My Thoughts.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 8 Middle School - Prime Time for Failure.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool/Chapter 3 Less Really is More - Parenting for Autonomy and Competence.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/My Thoughts.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 6 Friends - Accomplices to Failure and the Formation of Identity.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Introduction.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool/Chapter 4 Encouragement from the Sideline - The Real Connection Between Praise and Self-Esteem.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 5 Household Duties - Laundry as an Opportunity for Competence.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 7 Sports - Losing as an Essential Childhood Experience.md",
@@ -249,17 +259,7 @@
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Untitled 1.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Meta Information.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Intentional Father/Meta Information.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Mentally Strong Kids/Meta Information.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Emotionally Strong Boys/Meta Information.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Mentally Strong Kids",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Emotionally Strong Boys",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure",
-    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Raising Critical Thinkers/Meta Information.md",
-    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Raising Critical Thinkers/Book Content",
-    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Raising Critical Thinkers/Untitled.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/13 Things Mentally Strong Parents Don't Do.md"
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Mentally Strong Kids"
   ]
 }
