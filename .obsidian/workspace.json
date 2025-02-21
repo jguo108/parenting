@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6ab6979e96e05cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 6 Friends - Accomplices to Failure and the Formation of Identity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6 Friends - Accomplices to Failure and the Formation of Identity"
-            }
-          },
-          {
-            "id": "e3b000a85711525b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 8 Middle School - Prime Time for Failure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 8 Middle School - Prime Time for Failure"
-            }
-          },
-          {
             "id": "afd0944c93898af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
+                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 5 Introduction to thinkLaw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta Information"
-            }
-          },
-          {
-            "id": "b40ece0197efb8a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Meta Information.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meta Information"
-            }
-          },
-          {
-            "id": "b37dc01a03166219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool/Chapter 3 Less Really is More - Parenting for Autonomy and Competence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3 Less Really is More - Parenting for Autonomy and Competence"
+              "title": "Chapter 5 Introduction to thinkLaw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
+                "file": "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 5 Introduction to thinkLaw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meta Information"
+              "title": "Outline of Chapter 5 Introduction to thinkLaw"
             }
           }
         ],
@@ -225,7 +168,18 @@
   },
   "active": "afd0944c93898af8",
   "lastOpenFiles": [
+    "[Critical.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 5 Introduction to thinkLaw.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 9 Investigation and Discovery.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 8 Mistake Analysis.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 7 The Power of Analysis from Multiple Perspectives.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 4 A Critical Thinking Revolution.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer/Chapter 6 Analysis from Multiple Perspectives.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part I Closing the Critical Thinking Gap/Chapter 3 The Critical Thinking Gap.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part II Thinking Like a Lawyer",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part I Closing the Critical Thinking Gap/Chapter 2 Defining Critical Thinking.md",
     "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Meta Information.md",
+    "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Thinking Like a Lawyer/Part I Closing the Critical Thinking Gap",
     "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/The Fallacy Detective/Meta Information.md",
     "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Mind in the Making/Meta Information.md",
     "Foundational Pillars for Kids/A - Critical Thinking Logical Reasoning Abstraction/Books/Raising Critical Thinkers/Meta Information.md",
@@ -245,21 +199,10 @@
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 7 Sports - Losing as an Essential Childhood Experience.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool/Chapter 2 Why Parenting for Dependence Doesn't Work - The Power of Intrinsic Motivation.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Chapter 9 High School and Beyond - Toward Real Independence.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool/Chapter 1 How Failure Became a Dirty Word.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Conclusion - What I've Learnt From Letting Go.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Father to Son.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Untitled",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part III Succeeding at School - Learning from Failures is a Team Effort/Chapter 12 Grades - The Real Value of a Low Score.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part III Succeeding at School - Learning from Failures is a Team Effort/Chapter 11 Homework - How to Help Without Talking Over.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part III Succeeding at School - Learning from Failures is a Team Effort/Chapter 10 Parent-Teacher Partnerships.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success/Untitled",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Intentional Father/Book Content/Part 2 - Preparation/Chapter 3 - A Preview of the.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Intentional Father/Book Content/Part 1 - Introduction/Part 1 - Introduction.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part III Succeeding at School - Learning from Failures is a Team Effort",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part II Learning from Failure - Teaching Kids to Turn Mistakes into Success",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Untitled 1.md",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content",
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/Raising Mentally Strong Kids"
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Gift of Failure/Book Content/Part I Failure - A Most Valuable Parenting Tool"
   ]
 }
