@@ -1,3 +1,7 @@
+### Key Words
+
+hallucination, bias, creativity, innovation, connection, meaning
+
 ### Notes
 
 * AI's biggest weakness is *hallucinations*.  This can result from an exact recall of information. Hallucination is the result of both the technical details of the model, such as how the next word is picked without actually understanding what that word means, and the data the model is trained from, which can contain wrong information or biases. 
@@ -36,6 +40,9 @@
 ### Summary
 
 AI has its weakness, most prominent ones being hallucination and biases. But it's exactly because of this hallucination that AI is very suitable for creative work and it has already been shown that AI outperform human in many tasks that requires creativity. So as humans, we need to embrace AI in our creative work, whether it's writing, creating images, composing music. This gives people tremendous power to become creative and innovative. But at the same time, this leads to a serious question: what is the meaning of creative work? Historically, we associate the time, though and effect we put into our work with creativity. But if everything is at the click of one button, and the resulting work is both more creative and of higher quality than its human counterpart, what is the meaning of creative work after all?  
+
+So *what should be the meaning of creative work in the AI era*? I don't know the answer!
+
 
 
 
