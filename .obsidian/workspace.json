@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/Test Canvas.canvas",
+                "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/3. Chapter Interconnection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Canvas"
+              "title": "Outline of 3. Chapter Interconnection"
             }
           }
         ],
@@ -195,52 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "aa5a7ec535dafe0a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3a379761c809049e",
-        "type": "window",
-        "children": [
-          {
-            "id": "204752bcd6e26190",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "27e178730d1d16e3",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/Test Canvas.canvas",
-                    "viewState": {
-                      "x": -278.36398344954966,
-                      "y": 1123.8449976657137,
-                      "zoom": -1.6666666666666665
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Test Canvas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1111,
-        "y": 261,
-        "width": 812,
-        "height": 651,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "27e178730d1d16e3",
+  "active": "88da19b6abbd654d",
   "lastOpenFiles": [
-    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/3. Chapter Interconnection.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/Test Canvas.canvas",
+    "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/3. Chapter Interconnection.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/2. Chapter by Chapter.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/4. Key Concepts.md",
     "Foundational Pillars for Kids/A - Manhood and Resilience/Books/The Self-Driven Child/Book Summary/5. Counterarguments.md",
